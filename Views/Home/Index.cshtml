@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<link rel="stylesheet" href="~/css/HomePage.css" />
+
+<div class="home-page-headers">
+    <p class="schedulefy-name">Schedulefy</p>
+    <p class="schedulefy-description">The place where you can promote all your future parties, concerts, 
+        strikes or even birthdays parties. It doesnt matter. If you want your event to be seen by many people, 
+        this is the right place for you!!!</p>
+    <div class="home-page-buttons">
+        @if(!User.Identity!.IsAuthenticated)
+        {
+            <a class="button-started" href="Identity/Account/Register" style="text-decoration:none; background-color: #a288b4; border-radius: 5px; padding: 10px;
+    width: 150px;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    cursor: pointer;">GET STARTED!</a>
+        }        
+    </div>
+</div>
+<div class="image-container">
+    <img src="~/images/HomePage/photo1.jpg" width="400" />
+    <img src="~/images/HomePage/photo2.jpg" width="400" />
+    <img src="~/images/HomePage/photo3.jpeg" width="400" />
+</div>
