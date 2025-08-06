@@ -1,0 +1,59 @@
+﻿body {
+    background-color: #47096f;
+}
+
+.add-headers h2 {
+    color: #a288b4;
+}
+
+label {
+    color: #a288b4;
+}
+
+.s-1 {
+    display: flex;
+    gap: 20px;
+}
+
+.s-1-name {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+}
+
+.s-1-category {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+}
+
+.s-2 {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+}
+
+    .s-2 input {
+        width: 700px;
+        border-radius: 5px;
+    }
+
+.s-1 input {
+    width: 330px;
+    border-radius: 5px;
+}
+
+.s-1 select {
+    width: 350px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.s-2-button {
+    width: 700px;
+    margin-top: 20px;
+    background-color: black;
+    color: #a288b4;
+    border: none;
+    border-radius: 5px;
+}

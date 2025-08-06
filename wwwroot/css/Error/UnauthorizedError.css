@@ -1,0 +1,32 @@
+﻿body {
+    background-color: #47096f;
+}
+
+.unauthorized-user-card-containere {
+    text-align: center;
+    padding: 50px;
+    background-color: #a288b4;
+    border-radius: 5px;
+    max-width: 500px;
+    margin-left: 400px;
+}
+
+.unauthorized-user-number{
+    font-size: 70px;
+}
+
+.error-unauthorized-user{
+    font-size: 30px;
+}
+
+.back-to-home-button-unauthorized-user {
+    text-decoration: none;
+    background-color: black;
+    padding: 10px;
+    border-radius: 5px;
+    color: #a288b4;
+}
+
+.back-to-home-button-unauthorized-user i{
+    margin-right: 3px;
+}
