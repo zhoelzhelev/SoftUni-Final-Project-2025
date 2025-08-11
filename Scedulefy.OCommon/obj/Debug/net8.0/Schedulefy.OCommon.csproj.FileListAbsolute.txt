@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\Schedulefy\Scedulefy.OCommon\bin\Debug\net8.0\Schedulefy.OCommon.deps.json
+C:\Users\USER\source\repos\Schedulefy\Scedulefy.OCommon\bin\Debug\net8.0\Schedulefy.OCommon.dll
+C:\Users\USER\source\repos\Schedulefy\Scedulefy.OCommon\bin\Debug\net8.0\Schedulefy.OCommon.pdb
+C:\Users\USER\source\repos\Schedulefy\Scedulefy.OCommon\obj\Debug\net8.0\Schedulefy.OCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Schedulefy\Scedulefy.OCommon\obj\Debug\net8.0\Schedulefy.OCommon.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Schedulefy\Scedulefy.OCommon\obj\Debug\net8.0\Schedulefy.OCommon.AssemblyInfo.cs
+C:\Users\USER\source\repos\Schedulefy\Scedulefy.OCommon\obj\Debug\net8.0\Schedulefy.OCommon.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Schedulefy\Scedulefy.OCommon\obj\Debug\net8.0\Schedulefy.OCommon.dll
+C:\Users\USER\source\repos\Schedulefy\Scedulefy.OCommon\obj\Debug\net8.0\refint\Schedulefy.OCommon.dll
+C:\Users\USER\source\repos\Schedulefy\Scedulefy.OCommon\obj\Debug\net8.0\Schedulefy.OCommon.pdb
+C:\Users\USER\source\repos\Schedulefy\Scedulefy.OCommon\obj\Debug\net8.0\ref\Schedulefy.OCommon.dll
