@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Scedulefy.OCommon\Schedulefy.OCommon.csproj" />
+    <ProjectReference Include="..\Schedulefy.Data\Schedulefy.Data.csproj" />
+    <ProjectReference Include="..\Schedulefy.ViewModels\Schedulefy.ViewModels.csproj" />
+  </ItemGroup>
+
+</Project>
