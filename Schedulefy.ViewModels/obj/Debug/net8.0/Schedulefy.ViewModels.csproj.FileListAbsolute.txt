@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Schedulefy\Schedulefy.ViewModels\bin\Debug\net8.0\Schedulefy.ViewModels.deps.json
+C:\Users\USER\source\repos\Schedulefy\Schedulefy.ViewModels\bin\Debug\net8.0\Schedulefy.ViewModels.dll
+C:\Users\USER\source\repos\Schedulefy\Schedulefy.ViewModels\bin\Debug\net8.0\Schedulefy.ViewModels.pdb
+C:\Users\USER\source\repos\Schedulefy\Schedulefy.ViewModels\bin\Debug\net8.0\Schedulefy.OCommon.dll
+C:\Users\USER\source\repos\Schedulefy\Schedulefy.ViewModels\bin\Debug\net8.0\Schedulefy.OCommon.pdb
+C:\Users\USER\source\repos\Schedulefy\Schedulefy.ViewModels\obj\Debug\net8.0\Schedulefy.ViewModels.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Schedulefy\Schedulefy.ViewModels\obj\Debug\net8.0\Schedulefy.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Schedulefy\Schedulefy.ViewModels\obj\Debug\net8.0\Schedulefy.ViewModels.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Schedulefy\Schedulefy.ViewModels\obj\Debug\net8.0\Schedulefy.ViewModels.AssemblyInfo.cs
+C:\Users\USER\source\repos\Schedulefy\Schedulefy.ViewModels\obj\Debug\net8.0\Schedulefy.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Schedulefy\Schedulefy.ViewModels\obj\Debug\net8.0\Schedule.1D94FFF0.Up2Date
+C:\Users\USER\source\repos\Schedulefy\Schedulefy.ViewModels\obj\Debug\net8.0\Schedulefy.ViewModels.dll
+C:\Users\USER\source\repos\Schedulefy\Schedulefy.ViewModels\obj\Debug\net8.0\refint\Schedulefy.ViewModels.dll
+C:\Users\USER\source\repos\Schedulefy\Schedulefy.ViewModels\obj\Debug\net8.0\Schedulefy.ViewModels.pdb
+C:\Users\USER\source\repos\Schedulefy\Schedulefy.ViewModels\obj\Debug\net8.0\ref\Schedulefy.ViewModels.dll
