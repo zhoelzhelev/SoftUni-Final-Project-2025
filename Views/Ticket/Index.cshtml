@@ -1,0 +1,36 @@
+﻿@using Schedulefy.ViewModels.Tickets
+@model IEnumerable<IndexTicketViewModel>
+
+@{
+	ViewData["Title"] = "Your Tickets";
+}
+
+
+<link rel="stylesheet" href="~/css/Ticket/Index.css" />
+
+
+<div class="your-tickets-headers">
+	<h2>@ViewData["Title"]</h2>
+</div>
+
+<div class="your-tickets-main-container">
+	@foreach(var entity in Model)
+	{
+		<div class="your-tickets-inner-container">
+			@if(String.IsNullOrEmpty(entity.EventImageUrl))
+			{
+				<img src="~/images/Defaults/no-photo.jpg" style="height: 250px; width: 250px" />
+			}
+			else
+			{
+				<img src="@entity.EventImageUrl" style="height: 250px; width: 250px" />
+			}
+			<div class="event-ticket-info">
+				<p>Event: @entity.EventTitleName</p>
+				<p>Tickets Count: @entity.Count</p>
+				<p>Price: @entity.Price.ToString("F2")</p>
+			</div>
+			
+		</div>
+	}
+</div>

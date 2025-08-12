@@ -1,0 +1,31 @@
+﻿@using Schedulefy.ViewModels.Comments
+@model AddCommentInputModel
+@{
+	ViewData["Title"] = "Add Comment";
+}
+
+<link rel="stylesheet" href="~/css/Comment/Add.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+<div class="add-comment-headeres">
+	<h2>@ViewData["Title"]</h2>
+</div>
+
+<div class="add-comment-main-container">
+	<form asp-controller="Comment" asp-action="Add" method="post">
+		<div class="add-comment-input-type">
+			<input type="hidden" name="eventId" value="@Model.EventId">
+			<label for="content">Comment</label>
+			<textarea id="content" name="content" rows="5" cols="50"></textarea>
+		</div>
+		<div class="add-comment-buttons">
+			<button type="button" class="btn btn-warning d-flex justify-content-center align-items-center flex-fill mx-1" onclick="history.back()">
+				<i class="fas fa-arrow-left"></i> Back
+			</button>
+			<button class="s-2-button" type="submit">
+				<i class="fa-solid fa-circle-plus"></i>Add A Comment
+			</button>
+		</div>
+
+	</form>
+</div>

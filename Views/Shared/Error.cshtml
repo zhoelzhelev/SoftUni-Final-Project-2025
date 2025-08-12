@@ -1,0 +1,26 @@
+﻿@using Schedulefy.ViewModels
+@model ErrorViewModel
+@{
+    ViewData["Title"] = "Error";
+}
+
+<h1 class="text-danger">Error.</h1>
+<h2 class="text-danger">An error occurred while processing your request.</h2>
+
+@if (Model.ShowRequestId)
+{
+    <p>
+        <strong>Request ID:</strong> <code>@Model.RequestId</code>
+    </p>
+}
+
+<h3>Oops! Something Went Wrong</h3>
+
+<p>We’re sorry, but an unexpected error has occurred</p>
+<p>Please try the following:</p>
+<li>
+    <ul>--Refresh the page.</ul>
+    <ul>--Check your internet connection.</ul>
+    <ul>--Try again in a few minutes.</ul>
+</li>
+<p>If the problem persists, contact our techincal support.</p>
