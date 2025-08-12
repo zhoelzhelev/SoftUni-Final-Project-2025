@@ -1,0 +1,81 @@
+﻿html{
+    margin:0px;
+    padding:0px;
+}
+
+
+body {
+    background-color: #47096f;
+}
+
+.events-header {
+    display: flex;
+    gap: 750px;
+    margin-bottom: 70px;
+}
+
+.upcoming-events-container{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.add-btn {
+    background-color: black;
+    border-radius: 10px;
+    color: #a288b4;
+    text-decoration: none;
+    text-align: center;
+    padding: 0px;
+    width: 150px;
+    max-height: 50px;
+    padding: 10px;
+}
+
+.add-btn:hover {
+    color: #a288b4;
+}
+
+.events-header h2 {
+    color: #a288b4;
+   min-width: 400px;
+}
+
+.add-btn i{
+    margin-right: 10px;
+}
+
+.event-border{
+    padding: 20px;
+    background-color: black;
+    width: 300px;
+    border-radius: 5px;
+}
+
+.font-color{
+    color: #a288b4;
+}
+
+.event-body-main-part{
+    display: flex;
+    gap: 10px;
+}
+
+.buttons-container{
+    display: flex;
+    gap: 10px;
+}
+
+.buttons-container a {
+    display: flex;
+    background-color: #a288b4;
+    gap: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #a288b4;
+}
+
+.buttons-container button{
+    display: flex;
+    gap: 10px;
+}

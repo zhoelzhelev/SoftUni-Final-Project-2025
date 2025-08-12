@@ -1,0 +1,45 @@
+﻿body {
+    background-color: #47096f;
+}
+
+.add-comment-headeres h2 {
+    color: #a288b4;
+    margin-bottom: 50px;
+}
+
+.add-comment-main-container form{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.add-comment-input-type{
+    display: flex;
+    flex-direction: column;
+}
+
+.add-comment-input-type label {
+    color: #a288b4;
+}
+
+.add-comment-input-type textarea{
+    width: 300px;
+    border-radius: 5px;
+}
+
+.add-comment-buttons{
+    display: flex;
+    gap: 3px;
+}
+
+.add-comment-buttons .btn{
+    max-width: 147px;
+}
+
+.add-comment-buttons .s-2-button {
+    max-width: 150px;
+    border-radius: 5px;
+    border: none;
+    background-color: black;
+    color: #a288b4;
+}

@@ -1,0 +1,87 @@
+﻿html {
+    margin: 0px;
+    padding: 0px;
+    background-color: #47096f;
+}
+
+body {
+    background-color: #47096f;
+}
+
+footer{
+    margin-top: 0px;
+}
+
+.home-page-headers{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom:0px;
+}
+
+.schedulefy-name {
+    font-size: 200px;
+    color: #a288b4;
+}
+
+.schedulefy-description{
+    max-width: 750px;
+    color: #a288b4;
+    font-size: 20px;
+    text-align: center;
+}
+
+.home-page-buttons{
+    display: flex;
+    margin-top: 50px;
+    gap: 10px;
+}
+
+.home-page-buttons a{
+    border: none;
+    background-color: #a288b4;
+    border-radius: 5px;
+    padding: 10px;
+    width: 150px;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    cursor:pointer;
+    
+}
+.image-container {
+    display: flex;
+    gap: 80px;
+    margin-top: 50px;
+}
+
+.image-container img {
+    border-radius: 10px;
+    border: solid;
+    border-color: #a288b4;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.button-started {
+    border: none;
+    background-color: #a288b4;
+    border-radius: 5px;
+    padding: 10px;
+    width: 150px;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    cursor: pointer;
+}
+
+.button-info {
+    border: none;
+    background-color: #a288b4;
+    border-radius: 5px;
+    padding: 10px;
+    width: 150px;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    cursor: pointer;
+}

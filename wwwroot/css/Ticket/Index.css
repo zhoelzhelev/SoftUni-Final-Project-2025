@@ -1,0 +1,22 @@
+﻿body {
+    background-color: #47096f;
+}
+
+.your-tickets-headers h2 {
+    color: #a288b4;
+}
+
+.your-tickets-main-container{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.your-tickets-inner-container {
+    display: flex;
+    color: #a288b4;
+    padding: 70px;
+    background-color: black;
+    font-size: 20px;
+    gap: 30px;
+}

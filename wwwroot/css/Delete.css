@@ -1,0 +1,30 @@
+﻿body {
+    background-color: #47096f;
+}
+
+.delete-headers h2 {
+    color: #a288b4;
+}
+
+.delete-border {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    text-align: center;
+    margin-top: 100px;
+    padding: 100px;
+    background-color: black;
+    border-radius: 5px;
+    border: 2px solid #a288b4;
+}
+
+.delete-border h3 {
+    color: #a288b4;
+}
+
+.delete-buttons{
+    display: flex;
+    text-align: center;
+    gap: 50px;
+    justify-content: center;
+}

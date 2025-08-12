@@ -1,0 +1,40 @@
+﻿body {
+    background-color: #47096f;
+}
+
+.buy-tickets-headers h2 {
+    color: #a288b4;
+}
+
+.buy-tickets-form-container {
+    display: flex;
+    color: #a288b4;
+    margin-top: 100px;
+    border-top: 4px solid;
+    border-bottom: 4px solid;
+    border-color: black;
+    padding: 50px;
+    gap: 50px;
+}
+
+#buy-tickets-event-title{
+    font-size: 20px;
+    margin-bottom: 160px;
+}
+
+#buy-tickets-event-price {
+    font-size: 40px;
+}
+
+.buy-tickets-form-container form button {
+    color: #a288b4;
+    border: none;
+    background-color: black;
+    height: 30px;
+    width: 100px;
+}
+
+    .buy-tickets-form-container form button:hover {
+        color: black;
+        background-color: #a288b4;
+    }

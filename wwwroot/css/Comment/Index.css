@@ -1,0 +1,46 @@
+﻿body {
+    background-color: #47096f;
+}
+
+.comemnts-for-event-title h2 {
+    color: #a288b4;
+    margin-bottom: 50px;
+}
+
+p {
+    margin: 0px;
+}
+
+.comments-for-event-coontainer{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.comment-inner{
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+}
+
+.comment-publishere{
+    color: blue;
+    font-size: 10px;
+}
+
+.comment-content {
+    color: #a288b4;
+    max-width: 405px;
+}
+
+.buttons-commeents-for-event{
+    display: flex;
+    gap: 10px;
+    margin-top: 100px;
+}
+
+.buttons-commeents-for-event *{
+    max-width: 200px;
+    border: none;
+}
+
